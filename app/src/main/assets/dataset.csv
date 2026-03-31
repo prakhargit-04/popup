@@ -1,0 +1,3063 @@
+text,label
+hospital immediately,critical
+fire in the building,critical
+call 911 now,critical
+terrible accident come fast,critical
+i am bleeding help,critical
+chest pain call an ambulance,critical
+someone broke in police,critical
+sos we are in danger,critical
+she is unconscious,critical
+rushing to the emergency room,critical
+severe allergic reaction,critical
+i need a doctor urgently,critical
+please help me i am trapped,critical
+car crash on the highway,critical
+house is on fire get out,critical
+he is not breathing,critical
+urgent family emergency,critical
+call the cops they have a gun,critical
+i think i am having a panic attack,critical
+panic attack please help,critical
+come quick im scared,critical
+someones outside my window,critical
+i hear gunshots,critical
+dial 911,critical
+i cant breathe,critical
+choking help,critical
+send an ambulance right now,critical
+my chest hurts so bad,critical
+bleeding out need help,critical
+i think my arm is broken,critical
+car just flipped over,critical
+massive pileup on the freeway,critical
+we need paramedics,critical
+please hurry it hurts,critical
+robber broke into my house,critical
+hide they have a knife,critical
+call the police immediately,critical
+room is filling with smoke,critical
+gas leak get out,critical
+i smell gas leave the house,critical
+he collapsed,critical
+she just passed out,critical
+need cpr fast,critical
+head injury bleeding,critical
+somebody is following me,critical
+im being followed call cops,critical
+creepy guy following me help,critical
+they are trying to break down the door,critical
+intruder in the house,critical
+bring the medkit,critical
+we need a tourniquet,critical
+bitten by a snake,critical
+swallowing my tongue,critical
+anaphylactic shock,critical
+epipen now,critical
+seizure call for help,critical
+having a stroke,critical
+face is drooping call 911,critical
+heart attack symptoms,critical
+pulse is dropping,critical
+lost a lot of blood,critical
+fatal crash send medics,critical
+stabbing downtown,critical
+help me please,critical
+need help right now,critical
+where is the ambulance,critical
+how far are the cops,critical
+i am trapped under the car,critical
+stuck in the elevator and cant breathe,critical
+building is collapsing,critical
+earthquake take cover,critical
+tornado warning take shelter,critical
+active shooter run,critical
+shots fired stay down,critical
+he has a weapon,critical
+grab the kids and run,critical
+house is burning,critical
+kitchen fire spreading,critical
+water rising too fast,critical
+flash flood get to roof,critical
+i drank poison by mistake,critical
+swallowed bleach help,critical
+overdose call 911,critical
+unresponsive,critical
+no pulse starting chest compressions,critical
+bring the defibrillator,critical
+aed needed immediately,critical
+severe burns on my leg,critical
+scalded with boiling water,critical
+dog attack send help,critical
+wild animal attack,critical
+brakes failed crashed into tree,critical
+hit and run need police,critical
+drunk driver just hit us,critical
+my water just broke hospital now,critical
+baby is not breathing,critical
+toddler choking on toy,critical
+im locked in the trunk,critical
+kidnapping in progress,critical
+they took her call 911,critical
+hostage situation,critical
+domestic violence call cops,critical
+he is hitting her,critical
+i fear for my life,critical
+please send someone,critical
+dont text back just call 911,critical
+send location to police,critical
+i am in the trunk of a car,critical
+trapped in the basement,critical
+carbon monoxide alarm going off,critical
+i feel dizzy and cant stand,critical
+vomiting blood,critical
+coughing up blood,critical
+vision going black,critical
+i think im dying,critical
+hurry please,critical
+get here now emergency,critical
+fatal accident,critical
+major trauma,critical
+spinal injury dont move him,critical
+neck is broken,critical
+fractured skull,critical
+severe concussion,critical
+he is bleeding from the ears,critical
+project meeting tomorrow,important
+submit your assignment,important
+interview scheduled for monday,important
+confirm the payment receipt,important
+boss wants to see you in the office,important
+client presentation is ready,important
+dont forget the deadline,important
+please review the attached report,important
+your sons exam report is here,important
+school parent teacher meeting,important
+flight is scheduled for tonight,important
+quarterly tax submission,important
+did you send the invoice,important
+project update required,important
+the server is down please check,important
+contract signing at 3pm,important
+bank account statement attached,important
+please confirm your appointment,important
+your flight is boarding in 30 minutes,important
+gate change for your flight,important
+tuition fee is due today,important
+credit card bill overdue,important
+mortgage payment received,important
+salary has been credited,important
+new tax forms to sign,important
+doctor appointment at 4pm,important
+dentist reminder tomorrow,important
+kid needs to be picked up from school,important
+daycare closes in 15 minutes,important
+urgent task from the ceo,important
+the website is crashing,important
+database connection failed,important
+production server is offline,important
+fix the bug before launch,important
+client is waiting for the call,important
+zoom link for the interview,important
+your shift starts in an hour,important
+can you cover my shift today,important
+performance review meeting,important
+hr wants to speak with you,important
+legal documents attached,important
+sign the nda,important
+lease agreement renewal,important
+rent is due on the first,important
+car insurance expiring soon,important
+health insurance open enrollment,important
+passport is ready for pickup,important
+visa application approved,important
+court date tomorrow morning,important
+jury duty summons,important
+property tax bill,important
+utility bill final notice,important
+power will be shut off tomorrow,important
+internet outage in your area,important
+package delivery requires signature,important
+fedex tracking update,important
+amazon order delayed,important
+refund has been processed,important
+wire transfer completed,important
+fraud alert on your debit card,important
+unauthorized login attempt,important
+password reset requested,important
+your account has been locked,important
+two factor authentication code,important
+security alert new device logged in,important
+please verify your email,important
+system update tonight at midnight,important
+network maintenance scheduled,important
+vpn access revoked,important
+laptop needs to be returned to it,important
+employee onboarding at 9am,important
+town hall meeting at noon,important
+quarterly earnings call,important
+stock options vesting today,important
+portfolio down 10 percent,important
+margin call on your account,important
+wire instructions attached,important
+escrow closed successfully,important
+keys are ready for the new house,important
+moving truck arrives at 8am,important
+flight canceled rebook immediately,important
+hotel reservation confirmed,important
+rental car ready for pickup,important
+agenda for tomorrows workshop,important
+training session mandatory,important
+compliance course overdue,important
+safety inspection tomorrow,important
+audit team arriving next week,important
+financial statements due,important
+expense report rejected,important
+receipts needed for reimbursement,important
+budget approved for next year,important
+marketing campaign launch,important
+press release needs approval,important
+investor pitch deck,important
+board meeting minutes,important
+send me the excel sheet,important
+can you share the google doc,important
+access requested to drive folder,important
+feedback on your latest draft,important
+final revisions needed,important
+publishing goes live in 10 mins,important
+did you email the client back,important
+follow up with the vendor,important
+supply chain delay,important
+inventory is running low,important
+shipment arrives tomorrow,important
+customs clearance required,important
+hey what is up,low
+lol that was funny,low
+good night,low
+see you tomorrow,low
+haha i cant believe it,low
+ok sounds good to me,low
+cool see you then,low
+thanks a lot,low
+what are we having for dinner,low
+are you free this weekend,low
+just watching a movie,low
+good morning have a great day,low
+lmao that is hilarious,low
+can you grab some milk,low
+i am on my way,low
+happy birthday bro,low
+lets play some games later,low
+did you see that meme,low
+bro the new song is fire,low
+listen to this song,low
+bro what are you doing,low
+hehcdhehehej,low
+asdfghjkl,low
+bruh sed,low
+bruh fr,low
+ong that is crazy,low
+no cap,low
+skibidi,low
+wya,low
+omw,low
+rn,low
+idk man,low
+idc do whatever,low
+bet,low
+say less,low
+im down,low
+yeah maybe later,low
+im so tired,low
+just woke up,low
+going to sleep now,low
+sweet dreams,low
+how was your day,low
+pizza tonight,low
+want to grab lunch,low
+tacos for dinner,low
+i am starving,low
+can we get mcdonalds,low
+what is the wifi password,low
+did you finish the homework,low
+im studying right now,low
+this class is so boring,low
+teacher is annoying me,low
+i failed the test,low
+got an a on the exam,low
+do you have a pencil,low
+wanna hang out,low
+come over,low
+im outside,low
+open the door,low
+driving right now,low
+stuck in traffic,low
+ill be 5 mins late,low
+take your time,low
+no rush,low
+are we still on for tonight,low
+who is all going,low
+is she coming,low
+he said no,low
+why are you mad,low
+im not mad,low
+sorry my bad,low
+it is all good,low
+no worries,low
+dont forget to bring it,low
+did you watch the game,low
+that dunk was insane,low
+lebron is the goat,low
+playing valo hop on,low
+carry me in ranked,low
+i am lagging so hard,low
+my ping is 200,low
+restarting my pc,low
+discord is glitching,low
+join the vc,low
+send the link,low
+did you see her story,low
+he left me on read,low
+double text him,low
+that fit is clean,low
+new shoes just arrived,low
+going to the gym,low
+hitting chest today,low
+legs are so sore,low
+im skipping workout today,low
+what movie should we watch,low
+that show is mid,low
+season 2 was terrible,low
+no spoilers please,low
+i love that actor,low
+buying tickets now,low
+how much were they,low
+i will venmo you,low
+just sent the money,low
+got it thanks,low
+you owe me 5 bucks,low
+remind me tomorrow,low
+i forgot entirely,low
+my brain is fried,low
+i need a nap,low
+so bored right now,low
+entertain me,low
+send a selfie,low
+looking good,low
+slay,low
+purr,low
+absolute vibes,low
+50% discount on shoes,spam
+click here to win,spam
+free coupon code,spam
+you won the lottery claim now,spam
+limited time offer buy today,spam
+subscribe to our newsletter,spam
+get cashback on your next order,spam
+flash sale starts now,spam
+congratulations you are a winner,spam
+earn money from home easily,spam
+your prize is waiting click link,spam
+exclusive promo for you,spam
+cheap flights book now,spam
+guaranteed followers for your page,spam
+claim your free trial,spam
+invest now and double your cash,spam
+clearance sale everything must go,spam
+weight loss miracle pill,spam
+hot singles in your area,spam
+meet local women tonight,spam
+enlarge your size fast,spam
+buy viagra online no prescription,spam
+crypto investment guaranteed returns,spam
+bitcoin giveaway click here,spam
+elon musk is giving away crypto,spam
+your car warranty is expiring,spam
+extend your warranty now,spam
+you have been selected for a free iphone,spam
+claim your free ps5,spam
+spin the wheel to win a gift card,spam
+amazon gift card survey,spam
+complete this survey for 100 dollars,spam
+work from home make 500 a day,spam
+be your own boss sign up now,spam
+mlm opportunity of a lifetime,spam
+pyramid scheme no it is real,spam
+forex trading signals join telegram,spam
+make millions with this one trick,spam
+doctors hate this weight loss trick,spam
+burn belly fat in 3 days,spam
+keto gummies free bottle,spam
+hair loss cure discovered,spam
+fix your credit score instantly,spam
+remove bad debt legally,spam
+student loan forgiveness apply now,spam
+you qualify for a government grant,spam
+claim your stimulus check here,spam
+unclaimed money in your name,spam
+irs final notice pay immediately,spam
+arrest warrant issued call this number,spam
+your social security number is suspended,spam
+apple id locked verify identity,spam
+netflix account suspended update payment,spam
+paypal security alert click link,spam
+bank of america unusual activity login here,spam
+wells fargo update your password,spam
+chase bank fraud alert verify now,spam
+cash app payment pending accept here,spam
+zelle transfer failed click to fix,spam
+venmo security check required,spam
+fedex package undeliverable pay fee,spam
+usps tracking update click link,spam
+dhl shipment stuck in customs,spam
+you have a new voicemail listen here,spam
+missed call from unknown click to hear,spam
+someone sent you a private photo,spam
+view hidden messages on whatsapp,spam
+hack any instagram account,spam
+see who viewed your profile,spam
+buy cheap instagram followers,spam
+get 10k tiktok views for 1 dollar,spam
+youtube subscribers for sale,spam
+seo services for your website,spam
+rank number 1 on google,spam
+web design cheap rates,spam
+app development offshore team,spam
+b2b lead generation software,spam
+buy our email list of ceos,spam
+cheap printer ink cartridges,spam
+discounted software licenses,spam
+windows 10 pro key 5 dollars,spam
+office 365 lifetime account,spam
+antivirus subscription expired renew now,spam
+your computer is infected call microsoft,spam
+tech support scam call us,spam
+mcafee renewal notice,spam
+norton security warning,spam
+life insurance for seniors no exam,spam
+auto insurance rates dropping,spam
+refinance your mortgage today,spam
+lowest interest rates in history,spam
+personal loans up to 50k,spam
+bad credit no problem approve now,spam
+payday loan instant cash,spam
+casino bonus 100 free spins,spam
+sports betting picks guaranteed win,spam
+online poker sign up bonus,spam
+play bingo for real money,spam
+timeshare presentation free vacation,spam
+cruise tickets for two claim now,spam
+all inclusive resort discount,spam
+buy generic drugs online,spam
+cheap pharmacy no prescription needed,spam
+cbd oil cures everything,spam
+magic mushrooms buy online,spam
+vape juice clearance,spam
+
+
+they are shooting,critical
+hide in the bathroom,critical
+lock the doors they are outside,critical
+someone is trying to open my door,critical
+stalker broke in,critical
+my ex is here with a weapon,critical
+mugged at knifepoint,critical
+carjacked send police,critical
+they stole my car with the baby inside,critical
+kidnapped my child,critical
+active robbery in progress,critical
+bank robbery send cops,critical
+shooting at the mall,critical
+drive by shooting get down,critical
+barricaded in the room,critical
+someone is picking the lock,critical
+window just shattered,critical
+they are in the hallway,critical
+dont make a sound they are near,critical
+i am hiding in the closet,critical
+send swat,critical
+armed and dangerous,critical
+gun pointed at me,critical
+he pulled a knife on me,critical
+i am being held against my will,critical
+they wont let me leave,critical
+forced into a van,critical
+abduction in progress,critical
+stranger trying to lure my kid,critical
+found a tracker on my car,critical
+someone cut my brakes,critical
+brake lines are cut,critical
+i am being chased down the street,critical
+run for your life,critical
+they are breaking through the window,critical
+he is kicking the door down,critical
+domestic disturbance send units,critical
+i need a restraining order enforced now,critical
+he has a gun to her head,critical
+active fight with weapons,critical
+gang violence outside,critical
+riot breaking out,critical
+mob is attacking,critical
+they are looting the house,critical
+officer down,critical
+need backup immediately,critical
+he is threatening to kill me,critical
+death threat received and they are here,critical
+i think he is going to hurt me,critical
+please track my phone i am in danger,critical
+sliced my hand open,critical
+chopped off my finger,critical
+chainsaw accident,critical
+fell from the roof,critical
+fell off the ladder,critical
+fell down the stairs and cant move,critical
+broken back,critical
+paralyzed cant feel my legs,critical
+spine injury do not move him,critical
+hit my head really hard,critical
+skull is fractured,critical
+eye injury bleeding profusely,critical
+swallowed a battery,critical
+coughing uncontrollably,critical
+turning purple,critical
+he is suffocating,critical
+drowned pull him out,critical
+needs rescue breathing,critical
+asthma acting up cant breathe,critical
+need my inhaler right now,critical
+heart palpitations very fast,critical
+left arm is entirely numb,critical
+chest feels crushed,critical
+sudden severe headache worst ever,critical
+suspected aneurysm,critical
+blood in vomit,critical
+vomiting bile and passing out,critical
+extreme dehydration fainting,critical
+heat stroke collapsing,critical
+hypothermia freezing to death,critical
+severe frostbite,critical
+stung by a swarm of bees,critical
+allergic to wasp sting throat closing,critical
+throat is swelling shut,critical
+need epipen fast,critical
+snake venom spreading,critical
+rabid dog bite,critical
+bleeding profusely from the leg,critical
+artery cut,critical
+tourniquet is slipping,critical
+deep laceration on arm,critical
+stabbed in the gut,critical
+shot in the leg,critical
+gunshot wound to the chest,critical
+impaled on a fence,critical
+metal rod stuck in leg,critical
+nail gun accident,critical
+crushed hand in machine,critical
+foot ran over by tractor,critical
+industrial accident send medevac,critical
+forklift flipped on him,critical
+electrocuted and unresponsive,critical
+struck by lightning,critical
+chemical burn on face,critical
+acid thrown in eyes,critical
+swallowed glass,critical
+choking on a bone,critical
+baby swallowed a coin,critical
+toddler drank antifreeze,critical
+child unresponsive in pool,critical
+pulled kid from water not breathing,critical
+flesh eating bacteria rapid spread,critical
+sepsis shock dropping bp,critical
+blood pressure dangerously low,critical
+fading fast hurry,critical
+losing consciousness,critical
+cant stay awake,critical
+eyes rolling back,critical
+foaming at the mouth,critical
+convulsing violently,critical
+seizure lasted over 5 minutes,critical
+diabetic coma,critical
+blood sugar crashed need insulin,critical
+glucose critically low,critical
+hypoglycemic shock,critical
+appendicitis burst extreme pain,critical
+gallbladder ruptured,critical
+internal bleeding suspected,critical
+coughing up pink foam,critical
+lips are blue,critical
+fingers turning blue,critical
+no heartbeat starting compressions,critical
+brain bleed symptoms,critical
+slurred speech face drooping,critical
+cant lift both arms stroke,critical
+sudden blindness,critical
+deafening ringing then collapsed,critical
+vomiting blood chunks,critical
+fetal distress get to maternity,critical
+hemorrhaging after birth,critical
+umbilical cord wrapped around neck,critical
+water birth emergency,critical
+premature labor starting now,critical
+electrical fire in the walls,critical
+sparking wires caught the drapes,critical
+transformer blew up outside,critical
+forest fire approaching fast,critical
+evacuate the neighborhood immediately,critical
+structural collapse trapped inside,critical
+sinkhole opened up under the car,critical
+toxic gas leak in the lab,critical
+ammonia leak,critical
+mixed bleach and ammonia cant breathe,critical
+carbon monoxide poisoning symptoms,critical
+radiation leak alarm,critical
+bomb squad needed,critical
+suspicious bag left unattended,critical
+bomb threat called in,critical
+IED spotted on the road,critical
+grenade found in the yard,critical
+fireworks exploded indoors,critical
+propane tank leaking next to fire,critical
+gas station fire,critical
+vehicle on fire pull them out,critical
+trapped in burning room,critical
+clothes caught on fire,critical
+stop drop and roll hes burning,critical
+third degree burns over body,critical
+roof is collapsing,critical
+floor caved in,critical
+trapped under rubble,critical
+earthquake trapped in basement,critical
+tsunami siren going off,critical
+hurricane blew the roof off,critical
+tornado tore the house apart,critical
+avalanche buried the cabin,critical
+mudslide took out the road,critical
+flash flood sweeping cars away,critical
+stuck on the roof water rising,critical
+drowning in the river,critical
+swept away by the current,critical
+boat is sinking,critical
+ship taking on water,critical
+man overboard,critical
+plane engine on fire,critical
+we are going down brace for impact,critical
+helicopter crash landed,critical
+train derailed massive explosion,critical
+subway car filling with smoke,critical
+trapped in the subway tunnel,critical
+elevator free falling,critical
+cable snapped trapped in elevator,critical
+bridge collapsed,critical
+road washed out plunged into ravine,critical
+car in the water sinking fast,critical
+break the window car sinking,critical
+trapped under the dashboard,critical
+jaws of life needed immediately,critical
+flipped my truck multiple times,critical
+rolled the jeep down a hill,critical
+semi truck hit us head on,critical
+motorcycle hit a tree,critical
+thrown from the bike,critical
+no helmet head trauma,critical
+pedestrian struck by speeding car,critical
+hit by a bus,critical
+ran a red light tboned us,critical
+airbag deployed chest in agony,critical
+bicyclist hit by dump truck,critical
+skydiver parachute failed,critical
+bungee cord snapped,critical
+fell off the cliff,critical
+hanging from the ledge,critical
+slipped on the ice cracked skull,critical
+skiing accident hit a tree,critical
+snowmobile flipped on me,critical
+trapped in an ice cave,critical
+fell through the ice freezing,critical
+plunged into freezing lake,critical
+heat exhaustion pass out,critical
+trapped in a hot car,critical
+baby locked in hot car break window,critical
+dog dying in hot car,critical
+animal attack bear in camp,critical
+mountain lion stalking us,critical
+shark attack need tourniquet,critical
+alligator bit his leg,critical
+venomous spider bite swelling,critical
+scorpion sting cant breathe,critical
+jellyfish sting anaphylaxis,critical
+poison ivy in throat,critical
+ate poisonous mushrooms,critical
+food poisoning extreme dehydration,critical
+botulism suspected,critical
+typhoid symptoms,critical
+cholera outbreak,critical
+ebola suspected isolate now,critical
+hazmat team needed,critical
+biohazard spill in lab,critical
+chemical plant explosion,critical
+refinery fire spreading,critical
+oil spill caught fire,critical
+pipeline burst,critical
+gas main break,critical
+plsss help,critical
+hlp me rn,critical
+call 911 plz,critical
+emergncy come quick,critical
+bleeding out fast,critical
+ded,critical
+dying rn,critical
+plz help,critical
+sos sos sos,critical
+help help help,critical
+send medics rn,critical
+need police asap,critical
+swat now,critical
+cops now,critical
+ambulance plz,critical
+hurry pls,critical
+so much blood,critical
+cant stop the bleeding,critical
+im so scared come now,critical
+life or death situation,critical
+drop everything and come,critical
+this is an emergency,critical
+bring the police with you,critical
+tell my family i love them,critical
+i dont think ill make it,critical
+please god help me,critical
+somebody please help,critical
+is anyone there help,critical
+i need you here immediately,critical
+it is an absolute emergency,critical
+i am in critical condition,critical
+send an airlift,critical
+medevac requested,critical
+rescue helicopter needed,critical
+coast guard sos,critical
+mayday mayday mayday,critical
+we are taking heavy fire,critical
+under attack,critical
+defend the perimeter,critical
+breach in sector 4,critical
+secure the lockdown,critical
+school is in lockdown real threat,critical
+code red emergency,critical
+code blue in room 204,critical
+crash cart needed,critical
+bring the intubation kit,critical
+tracheotomy required,critical
+throat slit,critical
+stab wound to the neck,critical
+punctured lung,critical
+rib pierced my lung,critical
+spleen ruptured,critical
+liver laceration,critical
+femur snapped in half,critical
+compound fracture bone sticking out,critical
+amputated limb bring ice,critical
+severed hand,critical
+mangled in the machinery,critical
+crush syndrome,critical
+compartment syndrome,critical
+necrosis spreading rapidly,critical
+gangrene infection shock,critical
+tetanus lockjaw starting,critical
+rabies symptoms showing,critical
+malaria fever spiking dangerously,critical
+dengue hemorrhagic fever,critical
+severe covid cant breathe,critical
+ventilator needed,critical
+oxygen tank empty,critical
+life support failing,critical
+generator died patients on ventilators,critical
+power outage in the icu,critical
+hospital on fire evacuate patients,critical
+active shooter in the er,critical
+bomb in the lobby,critical
+terrorist attack,critical
+hijacking in progress,critical
+pirates boarding the ship,critical
+mutiny on board,critical
+taken prisoner,critical
+pow escaped being hunted,critical
+trapped behind enemy lines,critical
+friendly fire incident,critical
+artillery strike incoming,critical
+drone strike brace,critical
+missile alert take cover,critical
+nuclear siren sounding,critical
+fallout shelter now,critical
+EMP knocked out all systems,critical
+total grid failure riots starting,critical
+stampede at the concert,critical
+crushed by the crowd,critical
+trampled in the panic,critical
+panic in the stadium,critical
+bleachers collapsed,critical
+stage fell on the performers,critical
+pyrotechnics exploded in crowd,critical
+acid rain severe burns,critical
+volcano erupting ash cloud,critical
+lava flow blocking escape,critical
+meteor strike,critical
+alien invasion,critical
+zombie outbreak,critical
+rabid humans attacking,critical
+mass poisoning at the event,critical
+cyanide in the water supply,critical
+anthrax powder in the mail,critical
+ricin exposure,critical
+nerve gas deployed,critical
+mustard gas burns,critical
+sarin gas attack,critical
+VX nerve agent,critical
+dirty bomb detonated,critical
+radioactive material stolen,critical
+reactor meltdown,critical
+chernobyl level event,critical
+fukushima disaster happening,critical
+dam broke town flooding,critical
+levee breached,critical
+reservoir collapsing,critical
+bridge swinging wildly in wind,critical
+skyscraper swaying about to fall,critical
+crane collapsed onto the street,critical
+scaffolding fell on pedestrians,critical
+window washer fell 20 stories,critical
+elevator dropped 10 floors,critical
+escalator chewed up his leg,critical
+subway doors trapped her arm,critical
+dragged by the train,critical
+pushed onto the subway tracks,critical
+third rail electrocution,critical
+trapped in a bank vault,critical
+running out of oxygen in the vault,critical
+buried alive,critical
+coffin buried landslide,critical
+mine shaft collapsed,critical
+miners trapped underground,critical
+cave diving lost the guideline,critical
+scuba gear failed out of air,critical
+the bends decompression sickness,critical
+nitrogen narcosis,critical
+oxygen toxicity seizure,critical
+carbon dioxide poisoning,critical
+space suit punctured,critical
+airlock failure,critical
+depressurization in the cabin,critical
+sucked out the window,critical
+parachute tangled in the plane,critical
+glider crashed into the mountain,critical
+hang glider plummeted,critical
+hot air balloon caught fire,critical
+blimp exploded,critical
+ferris wheel stuck upside down,critical
+rollercoaster derailed,critical
+theme park ride snapped,critical
+carnival ride collapsed,critical
+bitten by a black widow,critical
+brown recluse bite rotting flesh,critical
+gila monster bite,critical
+komodo dragon attack,critical
+tiger escaped the zoo,critical
+lion mauled the keeper,critical
+gorilla broke the glass,critical
+elephant stampede,critical
+hippo flipped the boat,critical
+crocodile dragged him under,critical
+python wrapping around my neck,critical
+cobra spit in my eyes,critical
+rattlesnake bite to the face,critical
+coral snake bite,critical
+box jellyfish stung her,critical
+blue ringed octopus bite,critical
+stonefish stepped on it,critical
+cone snail sting,critical
+poison dart frog touched it,critical
+cassowary attack,critical
+ostrich kicked him in the head,critical
+bull gored the matador,critical
+horse kicked her in the chest,critical
+trampled by a horse,critical
+moose charged the car,critical
+deer through the windshield,critical
+elk attacked the hiker,critical
+grizzly bear outside the tent,critical
+polar bear breaking in,critical
+wolf pack surrounding us,critical
+coyote attacked the toddler,critical
+dingo took the baby,critical
+wild boar gored him,critical
+hyena attack,critical
+vampire bat bite rabies,critical
+rabid raccoon chasing us,critical
+skunk sprayed directly in eyes,critical
+porcupine quills in the throat,critical
+badger bit my hand off,critical
+wolverine attack,critical
+swarmed by killer bees,critical
+africanized bees attacking,critical
+murder hornets stinging,critical
+fire ant swarm on the baby,critical
+bullet ant sting passed out,critical
+tarantula hawk wasp sting,critical
+centipede bite severe reaction,critical
+leeches covering my body,critical
+maggots in the wound,critical
+flesh eating parasite,critical
+brain eating amoeba,critical
+tapeworm choking me,critical
+guinea worm erupting,critical
+botfly larvae in my eye,critical
+chiggers severe allergic reaction,critical
+scabies extreme infection,critical
+bedbug infestation anemia,critical
+lice infestation severe,critical
+flea bite bubonic plague,critical
+rat bite fever,critical
+hantavirus symptoms,critical
+lyme disease meningitis,critical
+rocky mountain spotted fever,critical
+west nile virus encephalitis,critical
+zika virus complication,critical
+dengue shock syndrome,critical
+yellow fever hemorrhaging,critical
+chikungunya extreme joint pain,critical
+bird flu suspected,critical
+swine flu critical condition,critical
+sars outbreak,critical
+mers respiratory failure,critical
+tuberculosis coughing blood,critical
+pneumonia cant breathe,critical
+bronchitis airways closing,critical
+emphysema flare up,critical
+copd exacerbation,critical
+cystic fibrosis lung collapsed,critical
+pulmonary embolism,critical
+deep vein thrombosis clot moved,critical
+heart failure fluid in lungs,critical
+cardiogenic shock,critical
+aortic dissection,critical
+ruptured abdominal aortic aneurysm,critical
+ventricular fibrillation,critical
+asystole flatline,critical
+pulseless electrical activity,critical
+supraventricular tachycardia passing out,critical
+bradycardia heart stopping,critical
+heart block need pacemaker,critical
+pericardial tamponade,critical
+endocarditis valve blew,critical
+myocarditis heart failing,critical
+rheumatic fever heart damage,critical
+kawasaki disease coronary aneurysm,critical
+
+
+team standup starts in 5 minutes,important
+please approve my timesheet,important
+payroll processing ends today,important
+your direct deposit failed,important
+w2 tax form is now available,important
+1099 form received,important
+overdraft fee charged to your account,important
+insufficient funds for transaction,important
+credit limit increase approved,important
+auto loan application under review,important
+car registration expires next month,important
+driver license renewal required,important
+emissions test due for your vehicle,important
+toll violation notice,important
+parking ticket final warning,important
+hoa meeting tonight at 7,important
+lease termination notice,important
+security deposit refund issued,important
+plumber arrives between 10 and 12,important
+electrician is on the way,important
+water shutoff notice for repairs,important
+internet technician dispatched,important
+new router delivery scheduled,important
+prescription is ready for pickup,important
+refill your medication soon,important
+lab test results are available online,important
+mri appointment confirmed,important
+veterinarian checkup for the dog,important
+pet insurance claim approved,important
+flight itinerary updated,important
+train departs from platform 4,important
+boarding pass attached,important
+tsa precheck renewal,important
+global entry interview scheduled,important
+hotel checkout is at 11am,important
+airbnb host sent you a message,important
+uber driver is arriving in 2 minutes,important
+lyft ride cancelled by driver,important
+food delivery driver is at the door,important
+groceries have been dropped off,important
+final grades have been posted,important
+scholarship application deadline,important
+financial aid dispersed,important
+student loan payment processed,important
+library books are overdue,important
+graduation ceremony details,important
+alumni association dues,important
+parent teacher conference rescheduled,important
+school closed due to snow,important
+bus route delay notification,important
+server memory usage at 90 percent,important
+aws billing alert exceeded limit,important
+domain name expires in 3 days,important
+ssl certificate renewal required,important
+database backup completed successfully,important
+git merge conflict detected,important
+pull request needs your review,important
+jira ticket assigned to you,important
+sprint planning meeting tomorrow,important
+product roadmap updated,important
+beta testing begins next week,important
+app store submission rejected,important
+google play console warning,important
+firebase database rules expiring,important
+api rate limit exceeded,important
+webhook delivery failed,important
+dns propagation in progress,important
+new device logged into your wifi,important
+smart home camera offline,important
+thermostat battery low,important
+alarm system armed,important
+doorbell camera detected a person,important
+motion sensor triggered in garage,important
+water leak detected in basement,important
+smoke detector battery needs replacing,important
+furnace filter needs changing,important
+warranty claim status updated,important
+product recall notice,important
+class action lawsuit settlement,important
+voter registration deadline,important
+polling place changed,important
+mail forwarding request confirmed,important
+po box renewal due,important
+certified letter waiting at post office,important
+ups delivery exception,important
+dhl package cleared customs,important
+shipment out for delivery,important
+order shipped via usps,important
+tracking number generated,important
+stock limit order executed,important
+crypto exchange withdrawal successful,important
+bitcoin transaction confirmed,important
+ethereum gas fees high right now,important
+nft bid accepted,important
+margin requirement increased,important
+dividends reinvested,important
+401k statement available,important
+ira contribution limit reached,important
+tax return accepted by irs,important
+state tax refund deposited,important
+audit documents requested,important
+w4 needs updating,important
+i9 verification required,important
+background check completed,important
+drug test results negative,important
+offer letter attached please sign,important
+onboarding documents due,important
+benefits enrollment period closing,important
+fsa funds expire soon,important
+hsa contribution processed,important
+pto request approved by manager,important
+sick leave balance low,important
+maternity leave paperwork,important
+fmla status update,important
+workers comp claim filed,important
+hr grievance logged,important
+mandatory sexual harassment training,important
+cybersecurity training overdue,important
+phishing simulation failed,important
+password expires in 5 days,important
+account lockout warning,important
+multifactor authentication required,important
+authenticator app setup needed,important
+recovery codes generated,important
+backup your data now,important
+icloud storage full,important
+google drive out of space,important
+dropbox subscription renewing,important
+microsoft 365 license assigned,important
+slack workspace invitation,important
+discord server rule changes,important
+zoom recording available,important
+teams meeting starting now,important
+webinar registration confirmed,important
+podcast episode published,important
+youtube video monetization approved,important
+copyright strike on your account,important
+twitch affiliate status reached,important
+patreon payout processed,important
+kickstarter campaign fully funded,important
+gofundme donation received,important
+charity tax receipt attached,important
+blood donation appointment,important
+flu shot clinic tomorrow,important
+covid booster scheduling,important
+quarantine period ends today,important
+contact tracing alert,important
+travel advisory issued for your destination,important
+embassy warning for citizens abroad,important
+passport renewal application received,important
+visa interview preparation,important
+immigration status updated,important
+green card approved,important
+citizenship test scheduled,important
+notary public signature required,important
+power of attorney documents,important
+living will drafted,important
+trust fund distribution,important
+estate planning meeting,important
+divorce decree finalized,important
+child support payment received,important
+alimony deposit cleared,important
+custody hearing tomorrow,important
+deposition transcript available,important
+subpoena to testify,important
+restraining order granted,important
+police report filed successfully,important
+insurance adjuster assigned,important
+auto claim estimate ready,important
+collision repair completed,important
+rental car extension approved,important
+roadside assistance dispatched,important
+tow truck arriving in 20 minutes,important
+locksmith is on site,important
+lost credit card replacement shipped,important
+stolen phone reported,important
+sim card swap detected,important
+carrier network update,important
+data limit reached,important
+roaming charges apply,important
+mobile hotspot data depleted,important
+cable box reboot required,important
+satellite signal lost,important
+streaming subscription canceled,important
+gym membership auto renewal,important
+personal training session booked,important
+yoga class waitlist opened,important
+golf tee time confirmed,important
+tennis court reservation,important
+restaurant reservation for 8pm,important
+concert tickets transferred,important
+theater show starts in 30 mins,important
+sports game delayed by rain,important
+event venue changed,important
+wedding rsvp deadline,important
+baby shower registry link,important
+funeral arrangements attached,important
+obituary published,important
+flower delivery confirmed,important
+catering menu finalized,important
+baker needs cake design,important
+photographer contract signed,important
+dj playlist submitted,important
+venue final payment due,important
+flight checked in successfully,important
+baggage carousel 4,important
+lost luggage claim submitted,important
+rental agreement signed,important
+property inspection scheduled,important
+pest control arriving tomorrow,important
+lawn care service completed,important
+snow removal dispatched,important
+trash pickup delayed by one day,important
+recycling bin replacement,important
+city council meeting agenda,important
+zoning board hearing,important
+building permit approved,important
+construction starting next week,important
+roofing materials delivered,important
+contractor invoice due,important
+architect blueprints ready,important
+surveyor property lines drawn,important
+appraisal report received,important
+title search clear,important
+closing disclosure attached,important
+wire fraud warning read carefully,important
+earnest money deposited,important
+home inspection report,important
+radon test results,important
+termite clearance letter,important
+well water test passed,important
+septic tank pumping scheduled,important
+pool maintenance tomorrow,important
+solar panel activation,important
+grid tie agreement signed,important
+utility rate change notice,important
+energy usage alert,important
+gas meter reading required,important
+water usage unusually high,important
+toll tag low balance,important
+subway pass expiring,important
+commuter rail schedule change,important
+parking permit approved,important
+street sweeping tomorrow move car,important
+valet requested your vehicle,important
+dry cleaning ready for pickup,important
+tailor alterations finished,important
+shoe repair completed,important
+watch battery replaced,important
+jewelry appraisal certificate,important
+safe deposit box renewal,important
+storage unit payment due,important
+auction bid won,important
+ebay item sold,important
+etsy shop order received,important
+pos system offline,important
+cash register drawer short,important
+inventory audit tonight,important
+supplier price increase,important
+wholesale order shipped,important
+freight delivery scheduled,important
+bill of lading attached,important
+customs duty payment required,important
+import license approved,important
+export declaration filed,important
+trademark application submitted,important
+patent pending status,important
+copyright registration complete,important
+nda violation notice,important
+cease and desist letter,important
+breach of contract claim,important
+mediation session scheduled,important
+arbitration ruling issued,important
+settlement funds disbursed,important
+trustee accounting report,important
+conservatorship hearing,important
+guardianship papers filed,important
+adoption finalized,important
+foster placement confirmed,important
+cps case closed,important
+social worker visit scheduled,important
+welfare benefits renewed,important
+snap eligibility approved,important
+medicaid status active,important
+medicare part b premium,important
+social security statement,important
+disability claim approved,important
+unemployment benefits deposited,important
+severance package details,important
+cobra health insurance election,important
+401k rollover complete,important
+pension payout started,important
+annuity statement,important
+life insurance policy active,important
+beneficiary change confirmed,important
+premium payment failed,important
+grace period ending,important
+policy cancellation notice,important
+claim denied appeal process,important
+prior authorization required,important
+medical records transferred,important
+hipaa release form signed,important
+dental xrays attached,important
+orthodontist appointment,important
+vision prescription updated,important
+glasses ready for pickup,important
+contacts order shipped,important
+hearing aid fitting,important
+physical therapy session,important
+chiropractor adjustment booked,important
+massage appointment reminder,important
+acupuncture session,important
+dermatology biopsy results,important
+specialist referral sent,important
+surgery pre op instructions,important
+hospital admission forms,important
+discharge summary available,important
+home health nurse arriving,important
+hospice care consultation,important
+medical equipment delivery,important
+oxygen tank refill,important
+wheelchair repair scheduled,important
+prosthetic fitting appointment,important
+service animal certification,important
+emotional support animal letter,important
+flights upgraded to first class,important
+standby list cleared,important
+lounge access granted,important
+frequent flyer miles expiring,important
+hotel points redeemed,important
+rental car upgraded,important
+cruise cabin assigned,important
+excursion booking confirmed,important
+passport visa pages full,important
+travel insurance policy,important
+international data plan active,important
+currency exchange rate alert,important
+wire transfer pending compliance,important
+swift code instructions,important
+iban number verified,important
+foreign transaction fee applied,important
+atm withdrawal limit reached,important
+check deposit on hold,important
+bounced check notification,important
+stop payment processed,important
+cashiers check printed,important
+money order received,important
+western union transfer picked up,important
+remittance sent successfully,important
+loan deferment approved,important
+forbearance period ending,important
+interest rate change notice,important
+escrow shortage analysis,important
+property tax assessment,important
+homestead exemption filed,important
+deed recorded with county,important
+lien placed on property,important
+foreclosure notice,important
+eviction proceedings started,important
+writ of possession issued,important
+bankruptcy filing accepted,important
+creditors meeting scheduled,important
+debt collection notice,important
+credit report inquiry,important
+fraud dispute resolved,important
+chargeback initiated,important
+merchant account approved,important
+payment gateway active,important
+stripe transfer arriving,important
+paypal funds on hold,important
+square reader shipped,important
+shopify store goes live,important
+domain transfer complete,important
+hosting plan upgraded,important
+cpanel password reset,important
+ftp access granted,important
+ssh key added,important
+ssl cert installed,important
+cron job failed,important
+backend server error 500,important
+frontend build failed,important
+cache cleared successfully,important
+cdn purge complete,important
+load balancer scaling up,important
+docker container crashed,important
+kubernetes pod restarted,important
+ci cd pipeline passed,important
+unit tests failed,important
+code coverage report,important
+security vulnerability detected,important
+penetration test results,important
+soc2 compliance audit,important
+iso 27001 certification,important
+gdpr data request,important
+ccpa opt out received,important
+privacy policy updated,important
+terms of service changed,important
+user agreement accepted,important
+eula signed,important
+software license key,important
+activation limit reached,important
+subscription tier changed,important
+prorated refund issued,important
+account deletion request,important
+data export ready to download,important
+archive process completed,important
+backup restored successfully,important
+database migration finished,important
+api key compromised,important
+secret token rotated,important
+oauth permission granted,important
+sso login successful,important
+saml configuration updated,important
+active directory sync,important
+ldap connection error,important
+radius server timeout,important
+firewall rule added,important
+ip address blocked,important
+mac address filtered,important
+router firmware update,important
+switch port disabled,important
+vlan configuration changed,important
+bgp route advertised,important
+ospf neighbor down,important
+mpls circuit offline,important
+fiber cut reported,important
+isp maintenance window,important
+carrier network outage,important
+cell tower maintenance,important
+sim swap fraud prevented,important
+imei blocked by carrier,important
+puk code required,important
+voicemail box full,important
+call forwarding active,important
+do not disturb enabled,important
+emergency sos contacts updated,important
+medical id changed,important
+find my iphone disabled,important
+location sharing stopped,important
+family tracking alert,important
+screen time limit reached,important
+app purchase approved,important
+in app purchase failed,important
+gift card redeemed,important
+store credit applied,important
+loyalty points added,important
+reward tier upgraded,important
+vip status achieved,important
+exclusive presale code,important
+early access granted,important
+waitlist spot opened,important
+rsvp confirmed,important
+registration successful,important
+ticket barcode attached,important
+wristband scanning,important
+badge printed,important
+lanyard pickup location,important
+exhibitor booth assigned,important
+sponsor packet attached,important
+speaker presentation slides,important
+keynote address time,important
+panel discussion schedule,important
+breakout session room,important
+networking event details,important
+gala dinner seating chart,important
+award nomination accepted,important
+competition results posted,important
+tournament bracket updated,important
+league standings changed,important
+fantasy draft starting,important
+roster move processed,important
+trade offer received,important
+waiver wire claim,important
+injury report update,important
+starting lineup submitted,important
+betting slip settled,important
+casino withdrawal approved,important
+poker tournament registration,important
+lottery ticket scanner,important
+raffle winner announced,important
+giveaway prize claimed,important
+sweepstakes entry confirmed,important
+contest rules updated,important
+audition call back,important
+casting decision made,important
+rehearsal schedule attached,important
+script revisions,important
+call sheet for tomorrow,important
+wardrobe fitting,important
+makeup call time,important
+wrap party details,important
+film festival submission,important
+premiere screening tickets,important
+review embargo lifts,important
+press pass approved,important
+media credential issued,important
+interview request from journalist,important
+pr statement approved,important
+crisis management meeting,important
+brand guidelines updated,important
+logo files attached,important
+marketing budget cut,important
+ad campaign performance,important
+roas below target,important
+cpc increased,important
+ctr dropped,important
+conversion rate optimized,important
+a b test results,important
+landing page live,important
+seo audit complete,important
+backlink profile updated,important
+keyword ranking report,important
+social media calendar,important
+post scheduled successfully,important
+tweet went viral,important
+instagram shadowban lifted,important
+tiktok account verified,important
+blue checkmark added,important
+influencer contract signed,important
+sponsored post live,important
+affiliate link generated,important
+commission payout,important
+sales quota reached,important
+bonus structure changed,important
+commission statement,important
+lead assigned to you,important
+crm data import complete,important
+pipeline report generated,important
+sales forecast updated,important
+deal closed won,important
+contract negotiations,important
+redlines attached,important
+master service agreement,important
+statement of work signed,important
+change order approved,important
+purchase order generated,important
+vendor w9 received,important
+certificate of insurance,important
+payment terms net 30,important
+late fee applied,important
+statement of account,important
+remittance advice,important
+credit application approved,important
+trade reference check,important
+duns number assigned,important
+business license renewed,important
+articles of incorporation,important
+ein number issued,important
+sales tax permit,important
+resale certificate,important
+liquor license approved,important
+health department inspection,important
+fire marshal approval,important
+certificate of occupancy,important
+building inspector sign off,important
+permit fees paid,important
+zoning variance granted,important
+easement agreement,important
+right of way access,important
+eminent domain notice,important
+condemnation order,important
+tax sale auction,important
+sheriff sale scheduled,important
+bail bond posted,important
+inmate release date,important
+parole hearing scheduled,important
+probation officer meeting,important
+community service hours,important
+court mandated class,important
+traffic school completion,important
+defensive driving certificate,important
+points added to license,important
+license suspension notice,important
+sr22 insurance required,important
+ignition interlock installed,important
+vehicle impounded,important
+release authorization form,important
+towing fees due,important
+storage yard location,important
+salvage title issued,important
+total loss settlement,important
+gap insurance claim,important
+lienholder paid off,important
+title transfer complete,important
+bill of sale signed,important
+odometer disclosure,important
+lemon law claim,important
+dealership financing approved,important
+trade in value appraised,important
+lease buyout options,important
+lease return inspection,important
+excess wear and tear,important
+mileage overage fee,important
+
+what are you up to,low
+let me know when you are free,low
+did you see that meme,low
+that is hilarious,low
+i am so bored right now,low
+want to grab lunch later,low
+where do you want to eat,low
+i am craving pizza,low
+tacos sound good tonight,low
+did you drink enough water,low
+just waking up,low
+going back to sleep,low
+i need coffee immediately,low
+starbucks run want anything,low
+can you pick up some milk,low
+we are out of bread,low
+what is for dinner,low
+i am cooking pasta tonight,low
+let us just order takeout,low
+uber eats is on the way,low
+delivery guy is here,low
+did you watch the game last night,low
+that match was insane,low
+can you believe that play,low
+my fantasy team is losing,low
+are you hopping on discord,low
+let us play some valorant,low
+i am logging into warzone,low
+invite me to the lobby,low
+my ping is so high right now,low
+game crashed give me a sec,low
+need to update my drivers,low
+did you see the new trailer,low
+no spoilers please,low
+i binge watched the whole season,low
+that ending made no sense,low
+what movie should we watch,low
+put on something funny,low
+i fell asleep during the movie,low
+this song is stuck in my head,low
+check out this playlist,low
+did you listen to the new album,low
+send me the link,low
+i cannot find the remote,low
+my phone is at one percent,low
+need to find a charger,low
+wifi is acting weird,low
+restart the router,low
+what is the wifi password,low
+my laptop is so slow today,low
+just finished work,low
+finally logging off,low
+this day felt so long,low
+i am exhausted,low
+going to take a nap,low
+see you tomorrow,low
+good morning bro,low
+have a good night,low
+sweet dreams,low
+talk to you later,low
+catch you in a bit,low
+brb getting a snack,low
+afk for a few minutes,low
+back now,low
+sup,low
+hey man,low
+yo what is good,low
+not much just chilling,low
+same here,low
+how is your day going,low
+pretty good so far,low
+it is so hot outside,low
+weather is actually nice today,low
+looks like it might rain,low
+did you bring an umbrella,low
+i forgot my jacket,low
+so cold in this room,low
+can you turn up the ac,low
+turn down the volume,low
+what did you say,low
+i cannot hear you,low
+call me back,low
+i will text you later,low
+my bad i missed your call,low
+sorry just saw this,low
+no worries,low
+all good man,low
+sounds like a plan,low
+let us do it,low
+i am down,low
+count me in,low
+maybe next time,low
+i cannot make it tonight,low
+too tired to go out,low
+staying in tonight,low
+watching youtube videos,low
+scrolling through tiktok,low
+this app is so addicting,low
+did you see my instagram story,low
+like my recent post,low
+who is all going,low
+are we still on for tonight,low
+what time are we meeting,low
+i will be there in ten,low
+running a little late,low
+traffic is horrible,low
+stuck at a red light,low
+just parked the car,low
+i am walking up now,low
+open the door,low
+come outside,low
+i am in the driveway,low
+leave it on the porch,low
+i will grab it later,low
+can i borrow your sweater,low
+did you find your keys,low
+they were in my pocket,low
+i lost my wallet,low
+nevermind i found it,low
+where did i put my glasses,low
+i need a haircut badly,low
+going to the gym,low
+leg day today,low
+skipping my workout,low
+too sore to move,low
+need to stretch,low
+did you go for a run,low
+walking the dog,low
+pet the cat for me,low
+this dog is so cute,low
+look at this puppy,low
+i want a pet,low
+watering the plants,low
+doing laundry right now,low
+folding clothes is the worst,low
+need to clean my room,low
+my desk is a mess,low
+taking out the trash,low
+doing the dishes,low
+chores are done,low
+finally relaxing,low
+what are you wearing later,low
+does this shirt look okay,low
+i have nothing to wear,low
+shopping for shoes,low
+these sneakers are fire,low
+how much was it,low
+that is too expensive,low
+on sale right now,low
+i bought it online,low
+package just arrived,low
+unboxing video time,low
+did you do the homework,low
+can i copy your notes,low
+what is the answer to number five,low
+i failed that test,low
+that exam was so hard,low
+class is so boring,low
+teacher is talking too much,low
+when does this period end,low
+lunch break finally,low
+cafeteria food is gross,low
+i brought my own lunch,low
+let us go to the mall,low
+window shopping,low
+hitting the drive thru,low
+want fries with that,low
+extra ketchup please,low
+can i get a sip of that,low
+this tastes weird,low
+you have to try this,low
+best burger ever,low
+i am so full,low
+food coma hitting hard,low
+cannot eat another bite,low
+we should bake cookies,low
+i burned the toast,low
+fire alarm went off from cooking,low
+just blowing out candles,low
+happy birthday bro,low
+did you get my gift,low
+thanks man appreciate it,low
+you are the best,low
+anytime bro,low
+i got you,low
+do not mention it,low
+what a legend,low
+absolute unit,low
+that is crazy,low
+no way,low
+you are joking right,low
+i swear it is true,low
+for real,low
+literally dying laughing,low
+lmao,low
+lol,low
+rofl,low
+that is wild,low
+bro what,low
+how did that happen,low
+tell me the story,low
+you will never guess,low
+guess who i just saw,low
+spill the tea,low
+what is the drama,low
+i am minding my own business,low
+not my problem,low
+it is what it is,low
+that sucks man,low
+rough day,low
+better luck next time,low
+you will get it,low
+keep trying,low
+good job,low
+proud of you,low
+well played,low
+gg,low
+nice shot,low
+you missed,low
+i completely forgot,low
+remind me later,low
+set an alarm,low
+what is the date today,low
+is it friday yet,low
+weekend went by too fast,low
+monday morning again,low
+hump day,low
+tgif,low
+what are your weekend plans,low
+going out of town,low
+packing my bags,low
+road trip time,low
+who is driving,low
+i call shotgun,low
+turn on the radio,low
+aux cord is mine,low
+skip this track,low
+this is my jam,low
+singing in the shower,low
+taking a bath,low
+brushing my teeth,low
+skincare routine,low
+hair looks terrible today,low
+bad hair day,low
+need to shave,low
+growing a beard,low
+do i look tired,low
+bags under my eyes,low
+need more sleep,low
+slept like a baby,low
+had a weird dream,low
+i cannot remember my dream,low
+deja vu,low
+that is so spooky,low
+do you believe in ghosts,low
+astrology is fake,low
+what is your sign,low
+that is such a capricorn thing,low
+my horoscope said,low
+reading a good book,low
+just finished the chapter,low
+page turner,low
+book was better than the movie,low
+spoilers ahead,low
+plot twist,low
+who is your favorite character,low
+i hate that guy,low
+villain was right,low
+did you play the sequel,low
+graphics are amazing,low
+frame rate is dropping,low
+lagging so hard,low
+controller died,low
+changing the batteries,low
+mouse is broken,low
+keyboard double typing,low
+spilled water on my desk,low
+wiping it up,low
+drop a like,low
+subscribe to the channel,low
+comment below,low
+algorithm is broken,low
+foryoupage is weird today,low
+scrolling for hours,low
+doom scrolling,low
+need a screen break,low
+touching grass,low
+sun is shining,low
+going for a walk,low
+enjoying the breeze,low
+beautiful sunset,low
+look at the moon,low
+stars are bright tonight,low
+making a wish,low
+did you see the shooting star,low
+too cloudy to see anything,low
+getting a tan,low
+forgot sunscreen,low
+sunburn hurts,low
+peeling skin,low
+bug bite is itchy,low
+slapped a mosquito,low
+ants in the kitchen,low
+found a spider,low
+kill it for me,low
+i am scared of bugs,low
+take it outside,low
+let it live,low
+he is just chilling,low
+what a vibe,low
+immaculate vibes,low
+pass the vibe check,low
+failed the vibe check,low
+you are so extra,low
+basic,low
+try hard,low
+sweat,low
+casual gamer,low
+noob,low
+git gud,low
+skill issue,low
+cope,low
+seethe,low
+ratio,low
+based,low
+cringe,low
+that is so cringe,low
+delete this,low
+unfollowed,low
+blocked,low
+reported,low
+just kidding,low
+jk,low
+sarcasm,low
+did not mean it,low
+don't be mad,low
+we cool,low
+are we okay,low
+fist bump,low
+high five,low
+hugs,low
+miss you bro,low
+come visit soon,low
+let us hang out tomorrow,low
+checking my schedule,low
+i am free all day,low
+wide open,low
+booked solid,low
+busy bee,low
+working hard or hardly working,low
+that was a bad joke,low
+dad joke,low
+laughing out loud,low
+silent chuckle,low
+smirk,low
+eye roll,low
+facepalm,low
+shaking my head,low
+smh,low
+idk,low
+idc,low
+tbh,low
+imo,low
+fwiw,low
+tldr,low
+too long did not read,low
+summarize it for me,low
+get to the point,low
+what is the bottom line,low
+long story short,low
+basically yes,low
+pretty much,low
+exactly,low
+spot on,low
+could not agree more,low
+i dissent,low
+let us agree to disagree,low
+whatever you say,low
+your choice,low
+up to you,low
+i don't mind,low
+i am easy,low
+flip a coin,low
+heads or tails,low
+rock paper scissors,low
+i won,low
+you cheated,low
+rematch,low
+best out of three,low
+i give up,low
+you win this time,low
+i will get you back,low
+revenge is sweet,low
+kidding again,low
+what a day,low
+exhausting,low
+refreshing,low
+feeling good,low
+feeling under the weather,low
+just a cold,low
+need soup,low
+chicken noodle cures everything,low
+drinking tea,low
+honey and lemon,low
+sore throat,low
+coughing a bit,low
+sneezed,low
+bless you,low
+gesundheit,low
+thanks,low
+np,low
+anytime,low
+of course,low
+certainly,low
+you bet,low
+for sure,low
+definitely,low
+absolutely,low
+without a doubt,low
+maybe,low
+possibly,low
+perhaps,low
+we will see,low
+time will tell,low
+only time can tell,low
+wait and see,low
+hold your horses,low
+slow down,low
+pump the brakes,low
+chill out,low
+relax man,low
+take a deep breath,low
+everything is fine,low
+it is all good,low
+hakuna matata,low
+no worries mate,low
+cheers,low
+bottoms up,low
+pouring a glass,low
+ice cold,low
+need ice cubes,low
+refill my drink,low
+save me a slice,low
+who ate the last piece,low
+i called dibs,low
+finders keepers,low
+losers weepers,low
+share with me,low
+split it in half,low
+down the middle,low
+fair and square,low
+deal,low
+shake on it,low
+pinky promise,low
+cross my heart,low
+hope to die,low
+stick a needle in my eye,low
+that is dark,low
+too far,low
+reel it in,low
+back track,low
+rewind,low
+play that again,low
+listen closely,low
+pay attention,low
+eyes on the screen,low
+don't look away,low
+blink and you miss it,low
+magic trick,low
+how did he do that,low
+illusion,low
+smoke and mirrors,low
+sleight of hand,low
+pick a card,low
+any card,low
+is this your card,low
+mind reader,low
+psychic,low
+fortune teller,low
+crystal ball,low
+looking into the future,low
+past life,low
+reincarnation,low
+karma,low
+what goes around comes around,low
+golden rule,low
+treat others well,low
+be kind,low
+spread positivity,low
+good vibes only,low
+namaste,low
+peace out,low
+catching flights not feelings,low
+wanderlust,low
+travel bug,low
+need a vacation,low
+beach day,low
+sand in my toes,low
+ocean breeze,low
+waves crashing,low
+collecting seashells,low
+building a sandcastle,low
+tide is coming in,low
+watch out for jellyfish,low
+swimming in the pool,low
+doing laps,low
+cannonball,low
+diving board,low
+no running by the pool,low
+lifeguard on duty,low
+blow the whistle,low
+pool noodle,low
+floating around,low
+lazy river,low
+water slide,low
+splash zone,low
+theme park,low
+rollercoaster drop,low
+cotton candy,low
+funnel cake,low
+carnival games,low
+won a stuffed bear,low
+ferris wheel view,low
+bumper cars,low
+go karts,low
+racing you to the finish,low
+first place,low
+second is the first loser,low
+just playing for fun,low
+participation trophy,low
+it is the taking part that counts,low
+good sportsmanship,low
+shake hands,low
+high score,low
+new personal best,low
+broke the record,low
+hall of fame,low
+goat,low
+greatest of all time,low
+legendary status,low
+epic win,low
+epic fail,low
+try not to laugh,low
+try not to cringe,low
+compilation video,low
+going down a rabbit hole,low
+wikipedia surfing,low
+learning random facts,low
+did you know that,low
+fun fact,low
+useless trivia,low
+pub quiz tonight,low
+we need a team name,low
+trivia masters,low
+we came in last,low
+at least we tried,low
+there is always next week,low
+practice makes perfect,low
+study hard,low
+ace the test,low
+straight As,low
+teachers pet,low
+sitting in the back row,low
+passing notes,low
+don't get caught,low
+detention,low
+saved by the bell,low
+school is out,low
+summer break,low
+winter break,low
+holidays are coming,low
+festive spirit,low
+wrapping presents,low
+tying a bow,low
+surprise party,low
+shh they are coming,low
+jump out and yell,low
+cut the cake,low
+make a wish,low
+blow out the candles,low
+pin the tail on the donkey,low
+piñata time,low
+grab the candy,low
+sugar rush,low
+bouncing off the walls,low
+calm down kid,low
+time for bed,low
+brush your teeth,low
+read a bedtime story,low
+tuck you in,low
+sleep tight,low
+don't let the bedbugs bite,low
+turn off the light,low
+nightlight on,low
+afraid of the dark,low
+monster under the bed,low
+closet door is open,low
+just shadows,low
+nothing there,low
+safe and sound,low
+wake up sleepyhead,low
+rise and shine,low
+early bird gets the worm,low
+i am a night owl,low
+hitting snooze,low
+five more minutes,low
+just a little longer,low
+late for work,low
+rushing out the door,low
+forgot my keys again,low
+locked out,low
+climbing through the window,low
+sneaking back in,low
+don't wake anyone up,low
+tiptoeing around,low
+creaky floorboards,low
+caught in the act,low
+busted,low
+guilty as charged,low
+my hands are tied,low
+nothing i can do,low
+out of my control,low
+let it go,low
+move on,low
+next chapter,low
+turning the page,low
+fresh start,low
+clean slate,low
+new beginnings,low
+resolutions,low
+gym membership,low
+diet starts tomorrow,low
+eating a salad,low
+i miss carbs,low
+cheat day,low
+devouring a burger,low
+no regrets,low
+yolo,low
+you only live once,low
+seize the day,low
+carpe diem,low
+make it count,low
+living my best life,low
+thriving,low
+blessed,low
+grateful,low
+thankful for you,low
+appreciate it,low
+could not do it without you,low
+teamwork makes the dream work,low
+we got this,low
+push through,low
+almost there,low
+finish line is in sight,low
+one last push,low
+we did it,low
+celebration time,low
+pop the champagne,low
+sparkling cider,low
+toast to success,low
+clinking glasses,low
+cheers to that,low
+amen,low
+preach,low
+say it louder,low
+for the people in the back,low
+mic drop,low
+walking off stage,low
+encore,low
+crowd goes wild,low
+standing ovation,low
+bravo,low
+beautiful performance,low
+masterpiece,low
+work of art,low
+hang it in the louvre,low
+painting a picture,low
+drawing a blank,low
+writer block,low
+staring at a blank page,low
+typing away,low
+keyboard warrior,low
+online argument,low
+trolling,low
+do not feed the trolls,low
+ignoring the haters,low
+brushing it off,low
+water off a ducks back,low
+thick skin,low
+sticks and stones,low
+words can never hurt me,low
+that actually hurt a little,low
+just a scratch,low
+flesh wound,low
+put a bandaid on it,low
+kiss it better,low
+magic healing powers,low
+feeling better already,low
+back to normal,low
+business as usual,low
+routine stuff,low
+same old same old,low
+nothing new,low
+status quo,low
+boring day,low
+watching paint dry,low
+watching grass grow,low
+waiting for water to boil,low
+time is moving so slow,low
+watching the clock,low
+tick tock,low
+counting down the minutes,low
+almost time to go,low
+packing up my desk,low
+shutting down the computer,low
+heading out the door,low
+freedom,low
+weekend is here,low
+party time,low
+let us get crazy,low
+paint the town red,low
+dance the night away,low
+two left feet,low
+stepping on toes,low
+rhythm is off,low
+just having fun,low
+who cares what they think,low
+dance like nobody is watching,low
+sing like nobody is listening,low
+live laugh love,low
+live your truth,low
+be yourself,low
+stay true to you,low
+keep it real,low
+100 percent,low
+no cap,low
+spitting facts,low
+truth bomb,low
+mind blown,low
+universe is expanding,low
+deep thoughts,low
+shower thoughts,low
+random musings,low
+penny for your thoughts,low
+just zoning out,low
+daydreaming,low
+head in the clouds,low
+come back to earth,low
+ground control to major tom,low
+space oddity,low
+classic rock,low
+vinyl records,low
+retro vibes,low
+throwback thursday,low
+flashback friday,low
+nostalgia hitting hard,low
+those were the days,low
+good old times,low
+missing the past,low
+looking to the future,low
+bright future ahead,low
+wearing shades,low
+cool cat,low
+top dog,low
+alpha,low
+sigma,low
+lone wolf,low
+pack mentality,low
+squad goals,low
+the boys,low
+hanging with the crew,low
+me and the gang,low
+posse,low
+entourage,low
+we roll deep,low
+taking over the world,low
+one step at a time,low
+baby steps,low
+slow and steady wins the race,low
+tortoise and the hare,low
+fables and stories,low
+once upon a time,low
+happily ever after,low
+the end,low
+roll credits,low
+post credit scene,low
+sequel bait,low
+to be continued,low
+
+claim your free prize now,spam
+you have won the lottery,spam
+congratulations you are a winner,spam
+click here to claim your reward,spam
+urgent update your account details,spam
+your account has been suspended click here,spam
+verify your identity to restore access,spam
+unauthorized login attempt click to secure,spam
+your password expires in 2 hours,spam
+reset your password immediately,spam
+flash sale 50 percent off everything,spam
+buy one get one free today only,spam
+limited time offer do not miss out,spam
+discount code inside open now,spam
+save big on your next purchase,spam
+clearance sale up to 80 percent off,spam
+your cart is waiting finish checkout,spam
+items in your cart are selling fast,spam
+exclusive deal just for you,spam
+early access to black friday deals,spam
+pre approved for a personal loan,spam
+get cash fast no credit check,spam
+zero percent apr for 12 months,spam
+apply now for your new credit card,spam
+your loan application is pre qualified,spam
+lower your mortgage rate today,spam
+consolidate your debt now,spam
+payday loan approved click here,spam
+instant approval no hidden fees,spam
+double your money in 24 hours,spam
+bitcoin giveaway click to claim,spam
+crypto wallet compromised secure now,spam
+elon musk is giving away ethereum,spam
+hot new altcoin about to explode,spam
+invest in real estate with zero down,spam
+work from home make thousands a week,spam
+be your own boss sign up today,spam
+start your dropshipping business now,spam
+make money taking online surveys,spam
+get paid to test apps,spam
+lose 10 pounds in a week,spam
+miracle diet pill no exercise needed,spam
+doctors hate this one simple trick,spam
+anti aging cream free trial,spam
+get ripped fast with this supplement,spam
+secret muscle building formula,spam
+hair loss reversed overnight,spam
+cure your tinnitus with this sound,spam
+fix your vision without glasses,spam
+detox tea for a flat tummy,spam
+hot singles in your area,spam
+someone is trying to message you,spam
+view her private photos now,spam
+you have a new match click here,spam
+secret admirer sent you a gift,spam
+meet local women tonight,spam
+upgrade to premium for free,spam
+your subscription is expiring renew now,spam
+last chance to keep your benefits,spam
+extend your cars extended warranty,spam
+final notice regarding your warranty,spam
+auto insurance rates dropping fast,spam
+save on health insurance today,spam
+life insurance for pennies a day,spam
+cheap flights book now,spam
+win a free cruise to the bahamas,spam
+free vacation package selected for you,spam
+claim your complimentary hotel stay,spam
+timeshare presentation free gift,spam
+you have a package waiting for delivery,spam
+usps delivery failed click to reschedule,spam
+fedex tracking update required,spam
+pay customs fee to release package,spam
+your netflix payment failed,spam
+amazon prime account suspended,spam
+apple id locked verify now,spam
+paypal transaction alert confirm here,spam
+cash app payment received accept now,spam
+venmo request pending,spam
+zelle transfer blocked,spam
+bank of america urgent notice,spam
+chase account update required,spam
+wells fargo security alert,spam
+irs tax refund available,spam
+unpaid tax penalty immediate action,spam
+social security number suspended,spam
+medicare benefits update,spam
+student loan forgiveness approved,spam
+government grant money available,spam
+claim your stimulus check now,spam
+class action lawsuit payout,spam
+voter survey win a gift card,spam
+take our survey for 50 dollars,spam
+rate your recent experience,spam
+leave a review and get paid,spam
+become a mystery shopper,spam
+free target gift card,spam
+walmart rewards program invite,spam
+starbucks bonus stars click here,spam
+free pizza code inside,spam
+download our app for a free burger,spam
+uber eats promo code,spam
+doordash delivery discount,spam
+instacart free delivery on next order,spam
+hellofresh get 10 free meals,spam
+blue apron special offer,spam
+wine club membership discount,spam
+craft beer delivery promo,spam
+cigar club exclusive invite,spam
+vape juice flash sale,spam
+cbd gummies free sample,spam
+medical marijuana card online,spam
+online casino sign up bonus,spam
+free spins on the slot machine,spam
+sports betting risk free bet,spam
+poker tournament guaranteed prize,spam
+play bingo for real money,spam
+fantasy football promo code,spam
+buy followers and likes cheap,spam
+get verified on instagram today,spam
+boost your tiktok views,spam
+grow your youtube channel fast,spam
+seo services first page of google,spam
+web design special pricing,spam
+app development quote,spam
+cheap logo design,spam
+freelance writing jobs available,spam
+virtual assistant hiring now,spam
+online tutoring positions open,spam
+teach english online get paid,spam
+stock trading alerts subscribe now,spam
+forex signals guaranteed profit,spam
+options trading secrets revealed,spam
+day trading masterclass discount,spam
+real estate seminar free tickets,spam
+house flipping guide download,spam
+buy houses for pennies on the dollar,spam
+wholesale real estate software,spam
+airbnb hosting secrets,spam
+solar panels zero upfront cost,spam
+government program pays for solar,spam
+lower your electric bill instantly,spam
+free home security system installation,spam
+adt alarm system special offer,spam
+smart thermostat rebate,spam
+water filter system discount,spam
+hvac tune up special,spam
+plumbing inspection free,spam
+roof replacement quote,spam
+gutter cleaning promo,spam
+lawn care first month free,spam
+pest control deal,spam
+termite inspection free,spam
+maid service discount,spam
+carpet cleaning special,spam
+air duct cleaning promo,spam
+mattress sale this weekend,spam
+furniture blowout sale,spam
+appliance clearance event,spam
+tv sale super bowl special,spam
+laptop discount student offer,spam
+iphone giveaway enter now,spam
+win a ps5 today,spam
+xbox series x in stock click here,spam
+nintendo switch bundle deal,spam
+cheap game keys buy now,spam
+software licenses discount,spam
+antivirus renewal notice,spam
+mcafee subscription expired,spam
+norton security alert,spam
+your pc is infected click to clean,spam
+driver update required,spam
+vpn discount 80 percent off,spam
+web hosting 1 dollar a month,spam
+domain registration sale,spam
+email marketing software deal,spam
+crm software free trial,spam
+accounting software discount,spam
+hr software demo,spam
+payroll services quote,spam
+business insurance cheap rates,spam
+workers comp insurance quote,spam
+commercial auto insurance,spam
+fleet tracking software,spam
+trucking logistics software,spam
+freight broker training,spam
+cdl training classes,spam
+heavy equipment auction,spam
+used car sale no credit check,spam
+buy here pay here auto sales,spam
+car title loans fast cash,spam
+motorcycle insurance quote,spam
+boat insurance discount,spam
+rv insurance rates,spam
+travel trailer sale,spam
+camping gear discount,spam
+fishing equipment clearance,spam
+hunting supplies sale,spam
+golf clubs discount,spam
+tennis gear promo,spam
+running shoes sale,spam
+workout clothes discount,spam
+yoga pants clearance,spam
+protein powder flash sale,spam
+pre workout discount,spam
+creatine sale,spam
+vitamins and supplements promo,spam
+essential oils free sample,spam
+aromatherapy diffuser sale,spam
+candles buy one get one,spam
+bath bombs discount,spam
+skincare routine sale,spam
+makeup brushes promo,spam
+eyeshadow palette discount,spam
+lipstick sale,spam
+perfume discount code,spam
+cologne flash sale,spam
+jewelry clearance,spam
+diamond ring discount,spam
+gold necklace sale,spam
+silver earrings promo,spam
+watches up to 70 percent off,spam
+designer handbags sale,spam
+sunglasses discount,spam
+reading glasses promo,spam
+contact lenses cheap,spam
+teeth whitening kit sale,spam
+electric toothbrush discount,spam
+water flosser promo,spam
+shaving club free trial,spam
+beard oil discount,spam
+hair gel sale,spam
+shampoo and conditioner promo,spam
+hair dryer discount,spam
+curling iron sale,spam
+flat iron promo,spam
+nail polish clearance,spam
+manicure set discount,spam
+pedicure tools sale,spam
+massage gun discount,spam
+foam roller promo,spam
+yoga mat sale,spam
+dumbbells discount,spam
+kettlebells promo,spam
+treadmill clearance,spam
+stationary bike sale,spam
+rowing machine discount,spam
+home gym equipment promo,spam
+punching bag sale,spam
+boxing gloves discount,spam
+mma gear promo,spam
+jiu jitsu gi sale,spam
+karate uniform discount,spam
+taekwondo gear promo,spam
+swimming goggles sale,spam
+swimsuit clearance,spam
+beach towel discount,spam
+cooler sale,spam
+grill clearance,spam
+bbq accessories discount,spam
+smoker sale,spam
+patio furniture clearance,spam
+outdoor rug discount,spam
+fire pit sale,spam
+hammock promo,spam
+sleeping bag discount,spam
+tent clearance,spam
+backpack sale,spam
+hiking boots discount,spam
+snowboard clearance,spam
+ski gear sale,spam
+winter coat discount,spam
+scarf and gloves promo,spam
+beanie sale,spam
+sweater clearance,spam
+hoodie discount,spam
+tshirt sale buy one get one,spam
+jeans clearance,spam
+shorts discount,spam
+socks buy two get one,spam
+underwear sale,spam
+pajamas clearance,spam
+slippers discount,spam
+blanket sale,spam
+sheets promo,spam
+pillows buy one get one,spam
+duvet cover clearance,spam
+towels discount,spam
+shower curtain sale,spam
+bath mat promo,spam
+trash can sale,spam
+cleaning supplies discount,spam
+laundry detergent promo,spam
+dish soap sale,spam
+paper towels discount,spam
+toilet paper promo,spam
+diapers sale,spam
+baby wipes discount,spam
+baby formula promo,spam
+stroller clearance,spam
+car seat sale,spam
+crib discount,spam
+baby clothes promo,spam
+toys clearance,spam
+board games sale,spam
+puzzles discount,spam
+action figures promo,spam
+dolls sale,spam
+lego sets discount,spam
+arts and crafts promo,spam
+school supplies sale,spam
+backpacks discount,spam
+notebooks promo,spam
+pens and pencils sale,spam
+crayons discount,spam
+markers promo,spam
+calculators sale,spam
+printers discount,spam
+ink cartridges promo,spam
+office chair clearance,spam
+desk sale,spam
+filing cabinet discount,spam
+bookshelves promo,spam
+lamps sale,spam
+light bulbs discount,spam
+batteries promo,spam
+extension cords sale,spam
+power strips discount,spam
+tools clearance,spam
+drill sale,spam
+saw discount,spam
+hammer and nails promo,spam
+screwdrivers sale,spam
+wrenches discount,spam
+pliers promo,spam
+tape measure sale,spam
+level discount,spam
+safety glasses promo,spam
+work gloves sale,spam
+tool belt discount,spam
+tool box promo,spam
+air compressor sale,spam
+generator discount,spam
+pressure washer promo,spam
+lawn mower clearance,spam
+weed wacker sale,spam
+leaf blower discount,spam
+chainsaw promo,spam
+snow blower clearance,spam
+shovel sale,spam
+rake discount,spam
+garden hose promo,spam
+sprinkler sale,spam
+plant food discount,spam
+fertilizer promo,spam
+grass seed sale,spam
+weed killer discount,spam
+bug spray promo,spam
+mouse traps sale,spam
+rat poison discount,spam
+dog food promo,spam
+cat food sale,spam
+bird seed discount,spam
+fish food promo,spam
+pet toys sale,spam
+dog bed discount,spam
+cat tree promo,spam
+litter box sale,spam
+leash and collar discount,spam
+pet carrier promo,spam
+aquarium sale,spam
+terrarium discount,spam
+reptile heat lamp promo,spam
+hamster cage sale,spam
+guinea pig food discount,spam
+rabbit hutch promo,spam
+horse feed sale,spam
+chicken coop discount,spam
+livestock supplies promo,spam
+tractor parts sale,spam
+agricultural equipment discount,spam
+farming supplies promo,spam
+seeds for planting sale,spam
+greenhouse discount,spam
+hydroponics promo,spam
+grow lights sale,spam
+brewing supplies discount,spam
+winemaking kit promo,spam
+cheese making kit sale,spam
+canning supplies discount,spam
+baking pans promo,spam
+mixing bowls sale,spam
+measuring cups discount,spam
+spatulas promo,spam
+knives sale,spam
+cutting board discount,spam
+pots and pans promo,spam
+blender sale,spam
+food processor discount,spam
+toaster promo,spam
+coffee maker sale,spam
+espresso machine discount,spam
+microwave promo,spam
+slow cooker sale,spam
+instant pot discount,spam
+air fryer promo,spam
+waffle maker sale,spam
+griddle discount,spam
+stand mixer promo,spam
+juicer sale,spam
+water bottle discount,spam
+travel mug promo,spam
+thermos sale,spam
+lunch box discount,spam
+food storage containers promo,spam
+tupperware sale,spam
+ziploc bags discount,spam
+aluminum foil promo,spam
+plastic wrap sale,spam
+trash bags discount,spam
+greeting cards promo,spam
+wrapping paper sale,spam
+gift bags discount,spam
+party supplies promo,spam
+balloons sale,spam
+streamers discount,spam
+party favors promo,spam
+invitations sale,spam
+thank you cards discount,spam
+stationery promo,spam
+custom stamps sale,spam
+business cards discount,spam
+flyers promo,spam
+brochures sale,spam
+banners discount,spam
+posters promo,spam
+signs sale,spam
+decals discount,spam
+stickers promo,spam
+magnets sale,spam
+keychains discount,spam
+lanyards promo,spam
+mugs sale,spam
+custom shirts discount,spam
+promotional products promo,spam
+trade show displays sale,spam
+event tents discount,spam
+pop up banners promo,spam
+table cloths sale,spam
+podiums discount,spam
+red carpet promo,spam
+stanchions sale,spam
+velvet ropes discount,spam
+event lighting promo,spam
+pa systems sale,spam
+microphones discount,spam
+speakers promo,spam
+dj controllers sale,spam
+turntables discount,spam
+synthesizers promo,spam
+drum kits sale,spam
+guitars discount,spam
+bass guitars promo,spam
+keyboards sale,spam
+pianos discount,spam
+violins promo,spam
+cellos sale,spam
+flutes discount,spam
+clarinets promo,spam
+saxophones sale,spam
+trumpets discount,spam
+trombones promo,spam
+sheet music sale,spam
+music stands discount,spam
+instrument cases promo,spam
+guitar strings sale,spam
+drum sticks discount,spam
+
+do we have a maths test today or tomorrow,important
+can you confirm if we have an exam today,important
+what syllabus is coming for the test tomorrow,important
+confirming the assignment deadline for today,important
+did you study for the maths exam,low
+do we have class today,low
+special offer for 50 per week,spam
+subscribe now for just 50 a week,spam
+exclusive promotional offer for 50 dollars,spam
+get this offer for 50 per week,spam
+job offer letter attached please review,important
+salary is 50 per hour,important
+what topics are covered in the maths syllabus,important
+physics practical record submission is tomorrow,important
+chemistry lab is cancelled for today,low
+are you going to the engineering lecture,low
+professor said the midterms are postponed,important
+check the college notice board for the exam schedule,important
+hall ticket is required for the semester exams,critical
+did you pay the semester college fees,important
+library book is overdue please return it,important
+i failed the internal assessment,low
+let us group study for the calculus test,low
+can you send me the notes for computer networks,low
+i missed the first hour attendance,low
+proxy my attendance please,low
+the internal marks have been uploaded online,important
+download the previous year question papers,low
+viva voice is scheduled for next monday,important
+submit your final year project synopsis,important
+the dean is calling you to the office,critical
+campus placements are starting next month,important
+you are shortlisted for the interview round,important
+aptitude test link is active now,important
+internship offer letter has been sent,important
+your resume has been selected by the hr,important
+offer of employment from the company,important
+background verification requires your documents,important
+your starting salary will be credited soon,important
+deduction in your weekly paycheck,important
+your weekly timesheet is unapproved,important
+congratulations you have a special promo offer,spam
+claim your 50 rupees cashback now,spam
+recharge your phone to continue this weekly offer,spam
+your weekly subscription of 50 is active,spam
+cancel your subscription to avoid weekly charges,spam
+free trial ends today pay 50 per week,spam
+you won a free weekly pass click here,spam
+limited time offer subscribe for 50 weekly,spam
+get premium benefits for just 50 rupees a week,spam
+exclusive rummy bonus offer claim now,spam
+play fantasy cricket and win 50 lakhs,spam
+your dream11 team is ready join the contest,spam
+urgent loan offer of 50k approved for you,spam
+no cibil score required loan offer inside,spam
+guaranteed job offer pay 50 registration fee,spam
+work from home data entry job offer,spam
+congratulations your mobile number won a lottery,spam
+dear customer your kyc is pending update immediately,spam
+pan card is blocked click here to update kyc,spam
+hdfc bank account suspended verify now,spam
+sbi reward points expiring today redeem now,spam
+electricity bill is pending power will be cut,spam
+your package delivery failed pay customs fee,spam
+amazon gift card worth 5000 is waiting,spam
+flipkart big billion days special offer,spam
+myntra end of reason sale extra 50 off,spam
+zomato pro membership offer inside,spam
+swiggy one free delivery subscribe now,spam
+buy 1 get 1 free on dominos pizza today,spam
+your uber ride is discounted today,spam
+ola cab promo code applied for your trip,spam
+are we playing pubg tonight,low
+valorant server is down for maintenance,low
+send me the discord link,low
+my ping is too high for ranked matches,low
+i got a new high score in the game,low
+did you watch the cricket match yesterday,low
+virat kohli scored a century,low
+what are the weekend plans,low
+let us go to the mall and watch a movie,low
+book the tickets on bookmyshow,low
+are we meeting at the cafe or the ground,low
+can i borrow your bike for an hour,low
+i will pick you up at the bus stop,low
+train is running late by 30 minutes,low
+did you finish the netflix series,low
+that new movie trailer looks amazing,low
+send me the spotify playlist,low
+i am out of mobile data hotspot please,low
+phone battery is dead call me on whatsapp,low
+can you forward me that meme,low
+that joke was not even funny,low
+lol that is crazy,low
+lmao i cannot believe you said that,low
+smh you are always late,low
+idk what the professor was teaching,low
+brb going to the canteen for tea,low
+grab me a samosa from the cafeteria,low
+the hostel food is terrible today,low
+maggi at midnight is the best,low
+are you staying in the pg or hostel,low
+roommate locked me out of the room,low
+rent is due on the 5th of this month,important
+water is not coming in the washroom,important
+wifi router is completely dead,important
+mess bill has increased this month,important
+the warden is doing a surprise check,critical
+results are out check the university portal,important
+supplementary exam dates announced,important
+revaluation forms are available till friday,important
+i need a bonafide certificate for my passport,important
+scholarship amount credited to your bank,important
+educational loan emi bounces,critical
+your credit card payment is overdue by 50 days,important
+minimum amount due is 500 rupees,important
+your cibil score has dropped significantly,important
+income tax return filing deadline is approaching,important
+tds certificate form 16 is attached,important
+pf withdrawal request processed,important
+medical insurance premium is due,important
+your health claim has been rejected,important
+appointment with the dentist confirmed,important
+blood test report shows high cholesterol,important
+mri scan scheduled for tomorrow morning,important
+accident on the highway traffic is jammed,important
+i have a severe headache and fever,important
+doctor prescribed antibiotics for 5 days,important
+pharmacy does not have the medicine,low
+take rest and drink plenty of water,low
+i am feeling much better today,low
+gym membership expires this week,important
+leg day was brutal i cannot walk,low
+diet plan is going well lost 2 kgs,low
+protein powder delivery expected today,low
+we need to buy groceries vegetables are over,low
+milk packet is leaking buy another one,low
+gas cylinder booking is confirmed,important
+plumber will fix the pipe at 4 pm,important
+electrician checked the short circuit,important
+the roof is leaking due to heavy rain,important
+chennai weather is extremely hot today,low
+cyclone warning issued stay indoors,critical
+school and colleges closed due to rain,important
+chennai metro purple line is delayed,low
+local train from tambaram is cancelled,important
+flight to bangalore is boarding at gate 5,important
+pnr status is rac 10 chances are low,important
+tatkal ticket booked successfully,important
+hotel reservation confirmed for two nights,important
+airbnb host sent the check in instructions,important
+car service is due at 10000 kms,important
+bike insurance renewal is pending,important
+traffic police issued a challan for overspeeding,important
+puc pollution certificate expired,important
+driving license test is at the rto,important
+passport police verification is done,important
+visa application approved by the embassy,important
+immigration check took two hours,low
+baggage arrived on belt number 4,low
+customs cleared without any issues,low
+i lost my wallet and all my cards,critical
+block my debit card immediately unauthorized transaction,critical
+otp for transaction of 5000 is 123456 do not share,critical
+someone tried to log into your gmail account,critical
+facebook password reset code is 98765,critical
+instagram account suspended due to violation,important
+whatsapp number banned for spamming,important
+telegram account login from a new device,important
+linkedin profile viewed by 50 recruiters,low
+twitter account locked for unusual activity,important
+youtube premium family plan invitation,low
+apple music subscription renewed,low
+icloud storage is almost full upgrade now,important
+google drive out of space buy more,important
+microsoft office 365 license expired,important
+windows update is ready to install,low
+macbook battery needs servicing,important
+iphone screen cracked need a repair shop,important
+samsung service center called about the phone,important
+laptop motherboard is dead data lost,critical
+external hard drive is corrupted,critical
+backup your files before formatting,important
+antivirus detected a trojan horse malware,critical
+firewall blocked a suspicious connection,important
+vpn disconnected your ip is exposed,important
+crypto exchange binance login alert,important
+bitcoin price crashed by 50 percent,important
+ethereum gas fees are too high right now,low
+nft collection minted successfully,low
+metamask wallet seed phrase compromised,critical
+never share your private keys with anyone,critical
+your digital signature is required on the pdf,important
+zoom meeting link for the team sync,important
+microsoft teams chat message from manager,important
+slack notification channel mentioned you,low
+jira ticket assigned fix the bug,important
+github pull request merged to main branch,important
+aws ec2 instance is running out of memory,critical
+database server is down website offline,critical
+domain name expired renew immediately,critical
+ssl certificate is invalid website unsafe,critical
+cloudflare error 522 connection timed out,critical
+google analytics traffic dropped to zero,critical
+adsense account disabled for invalid click,critical
+facebook ads account restricted,critical
+stripe payment failed card declined,important
+paypal dispute opened by the buyer,important
+razorpay settlement delayed due to bank holiday,important
+shopify store received a new order,important
+woocommerce inventory is out of stock,important
+dropshipping supplier shipped the product,important
+fedex tracking shows out for delivery,important
+dhl shipment held at customs,important
+bluedart delivery boy cannot find the address,important
+swiggy instamart order delivered at door,low
+zepto 10 minute delivery is delayed,low
+blinkit grocery order missing an item,low
+bigbasket slot available for tomorrow,low
+urban company cleaner is arriving in 10 mins,important
+salon appointment booked for a haircut,low
+myntra package return initiated,important
+flipkart refund credited to your bank,important
+amazon pay wallet loaded with 500,low
+paytm upi transaction successful,low
+phonepe money transfer failed due to network,important
+google pay scratch card won 10 rupees,low
+cred coin balance is enough for the jackpot,low
+postpe credit limit increased,low
+slice card bill generated pay by 5th,important
+uni card payment reminder,important
+lazypay pay later statement ready,important
+simpl checkout approved,low
+zestmoney emi debited automatically,important
+bajaj finserv emi card blocked,important
+muthoot finance gold loan interest due,important
+manappuram gold auction notice,critical
+lic premium receipt attached,important
+star health insurance policy document,important
+hdfc ergo car insurance quote,low
+icici lombard travel insurance active,important
+sbi life term insurance application,important
+max life claim settlement status,important
+zerodha kite margin shortfall add funds,critical
+upstox account opened start trading,important
+groww mutual fund sip deducted,important
+coin dcx kyc approved,important
+wazirx withdrawal successful,important
